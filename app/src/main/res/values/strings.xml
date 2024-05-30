@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name" translatable="false">Математическая атака</string>
+    <string name="menuWelcomeText">Добро пожаловать, %1$s</string>
+
+    <string name="inputNameError">Вы должны ввести имя.</string>
+    <string name="inputNameHint">Имя</string>
+    <string name="nameDialog_Text">Введите ваше имя</string>
+    <string name="nameDialog_continue">Продолжить</string>
+    <string name="nameDialog_error">Введено некорректное имя.</string>
+
+    <string name="menuBtPlay">Играть!</string>
+    <string name="menuBtStore">Магазин</string>
+
+    <string name="dificultyLvl1">Уровень 1 - Сложение</string>
+    <string name="dificultyLvl2">Уровень 2 - Вычитание</string>
+    <string name="dificultyLvl3">Уровень 3 - Умножение</string>
+    <string name="dificultyLvl4">Уровень 4 - Деление</string>
+    <string name="dificultyLvl5">Уровень 5 - Все вместе!</string>
+
+    <string name="scoreboardModeInfo">Отображение результатов для %1$s</string>
+    <string name="scoreboardNoEntries">Нет записей для этого режима.</string>
+
+    <string name="sbMenuReturn">Назад</string>
+    <string name="sbMenuLvl1">Сложение</string>
+    <string name="sbMenuLvl2">Вычитание</string>
+    <string name="sbMenuLvl3">Умножение</string>
+    <string name="sbMenuLvl4">Деление</string>
+    <string name="sbMenuLvl5">Уровень 5</string>
+
+    <string name="gameBtPauseDesc">Приостановить игру.</string>
+    <string name="gameBt1" translatable="false">1</string>
+    <string name="gameBt2" translatable="false">2</string>
+    <string name="gameBt3" translatable="false">3</string>
+    <string name="gameBt4" translatable="false">4</string>
+    <string name="gameBt5" translatable="false">5</string>
+    <string name="gameBt6" translatable="false">6</string>
+    <string name="gameBt7" translatable="false">7</string>
+    <string name="gameBt8" translatable="false">8</string>
+    <string name="gameBt9" translatable="false">9</string>
+    <string name="gameBt0" translatable="false">0</string>
+    <string name="gameTextScore">Очки: %1$d</string>
+
+    <string name="pauseMenuText">Меню паузы</string>
+    <string name="pauseBtContinue">Продолжить</string>
+    <string name="pauseBtExit">Выйти в меню</string>
+
+    <string name="gameOverText">Вы побеждены</string>
+    <string name="gameOverScore">Очки: %1$d</string>
+    <string name="gameOverTime">Время выживания: %1$d секунд</string>
+    <string name="gameOverBtExit">Продолжить</string>
+
+    <string name="prefsCatData">Данные приложения</string>
+    <string name="prefsClearDBKey" translatable="false">prefClearDB</string>
+    <string name="prefsClearDBTittle">Очистить базу данных</string>
+    <string name="prefsClearDBSub">Будут удалены таблицы результатов.</string>
+    <string name="prefsClearDBToast">Таблица результатов очищена</string>
+
+    <string name="prefsChangeNameKey" translatable="false">editUsername</string>
+    <string name="prefsChangeNameTitle">Изменить имя игрока</string>
+
+    <string name="prefsClearNameKey" translatable="false">clearUsername</string>
+    <string name="prefsClearNameTitle">Удалить имя пользователя</string>
+    <string name="prefsClearNameSum">Удалить сохраненное имя пользователя</string>
+    <string name="prefsClearNameToast">Имя пользователя удалено.</string>
+
+    <string name="prefsCatInfo">Информация</string>
+    <string name="prefsShowInfoKey" translatable="false">info</string>
+    <string name="prefsShowInfoTitle">Информация о приложении</string>
+    <string name="appInfoText" translatable="false">Математическая атака - 10/05/2024</string>
+
+    <string name="prefsCatDebug" translatable="false">DEBUG</string>
+    <string name="prefsAddDummyScoresKey" translatable="false">addDummyScores</string>
+    <string name="prefsAddDummyScoresTittle" translatable="false">Добавить примерные результаты</string>
+
+    <string name="sharedPrefsFileName" translatable="false">kidsPrefs</string>
+    <string name="sharedPrefsKeyUsername" translatable="false">username</string>
+
+</resources>

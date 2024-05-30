@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name" translatable="false">Math Attack</string>
+    <string name="menuWelcomeText">Welcome, %1$s</string>
+
+    <string name="inputNameError">You must enter a name.</string>
+    <string name="inputNameHint">Name</string>
+    <string name="nameDialog_Text">Enter your name</string>
+    <string name="nameDialog_continue">Continue</string>
+    <string name="nameDialog_error">Invalid name entered.</string>
+
+    <string name="menuBtPlay">Play!</string>
+    <string name="menuBtStore">Store</string>
+
+    <string name="dificultyLvl1">Level 1 - Addition</string>
+    <string name="dificultyLvl2">Level 2 - Subtraction</string>
+    <string name="dificultyLvl3">Level 3 - Multiplication</string>
+    <string name="dificultyLvl4">Level 4 - Division</string>
+    <string name="dificultyLvl5">Level 5 - All Together!</string>
+
+    <string name="scoreboardModeInfo">Displaying results for %1$s</string>
+    <string name="scoreboardNoEntries">No entries for this mode.</string>
+
+    <string name="sbMenuReturn">Back</string>
+    <string name="sbMenuLvl1">Addition</string>
+    <string name="sbMenuLvl2">Subtraction</string>
+    <string name="sbMenuLvl3">Multiplication</string>
+    <string name="sbMenuLvl4">Division</string>
+    <string name="sbMenuLvl5">Level 5</string>
+
+    <string name="gameBtPauseDesc">Pause the game.</string>
+    <string name="gameBt1" translatable="false">1</string>
+    <string name="gameBt2" translatable="false">2</string>
+    <string name="gameBt3" translatable="false">3</string>
+    <string name="gameBt4" translatable="false">4</string>
+    <string name="gameBt5" translatable="false">5</string>
+    <string name="gameBt6" translatable="false">6</string>
+    <string name="gameBt7" translatable="false">7</string>
+    <string name="gameBt8" translatable="false">8</string>
+    <string name="gameBt9" translatable="false">9</string>
+    <string name="gameBt0" translatable="false">0</string>
+    <string name="gameTextScore">Score: %1$d</string>
+
+    <string name="pauseMenuText">Pause Menu</string>
+    <string name="pauseBtContinue">Continue</string>
+    <string name="pauseBtExit">Exit to Menu</string>
+
+    <string name="gameOverText">You are defeated</string>
+    <string name="gameOverScore">Score: %1$d</string>
+    <string name="gameOverTime">Survival Time: %1$d seconds</string>
+    <string name="gameOverBtExit">Continue</string>
+
+    <string name="prefsCatData">App Data</string>
+    <string name="prefsClearDBKey" translatable="false">prefClearDB</string>
+    <string name="prefsClearDBTittle">Clear Database</string>
+    <string name="prefsClearDBSub">Result tables will be deleted.</string>
+    <string name="prefsClearDBToast">Result table cleared</string>
+
+    <string name="prefsChangeNameKey" translatable="false">editUsername</string>
+    <string name="prefsChangeNameTitle">Change Player Name</string>
+
+    <string name="prefsClearNameKey" translatable="false">clearUsername</string>
+    <string name="prefsClearNameTitle">Delete Username</string>
+    <string name="prefsClearNameSum">Delete the saved username</string>
+    <string name="prefsClearNameToast">Username deleted.</string>
+
+    <string name="prefsCatInfo">Information</string>
+    <string name="prefsShowInfoKey" translatable="false">info</string>
+    <string name="prefsShowInfoTitle">App Information</string>
+    <string name="appInfoText" translatable="false">Math Attack - 05/10/2024</string>
+
+    <string name="prefsCatDebug" translatable="false">DEBUG</string>
+    <string name="prefsAddDummyScoresKey" translatable="false">addDummyScores</string>
+    <string name="prefsAddDummyScoresTittle" translatable="false">Add Dummy Scores</string>
+
+    <string name="sharedPrefsFileName" translatable="false">kidsPrefs</string>
+    <string name="sharedPrefsKeyUsername" translatable="false">username</string>
+
+</resources>
